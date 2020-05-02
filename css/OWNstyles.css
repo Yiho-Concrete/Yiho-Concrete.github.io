@@ -1,0 +1,85 @@
+.first-container{background-color: rgba(251, 243, 235, 0.2);
+         color: #5a7791}
+
+.profile-navbar{background-color: rgba(255, 255, 255, 0.6);
+         }
+
+html {
+  background-color: #f5f5e8;
+}
+
+body {
+  background: none;
+  color: rgb(116, 69, 36);
+  font-family: 'Vollkorn', serif;
+  font-weight: 250;
+}
+
+.card-title {
+  color: #071663;
+  font-family: 'Vollkorn', serif;
+  font-weight: 500;
+}
+
+.card-text{
+  font-family: 'Vollkorn', serif;
+  font-weight: 400;
+}
+
+
+
+.icon1{ background: url("../img/pattern1.png") repeat-x;
+        background-size: 200px;}
+
+/*h1, h2, h3, h4, h5, h6 {
+  font-family: "Oswald", sans-serif;
+  font-weight: 700;
+}
+
+
+/* Additional stuff for life-accountant.html page */
+.jumbotron_jungle{
+  background-image: url("../img/Jungle.jpg");
+  background-size: cover;
+  color: white;
+}
+
+/* Additional stuff for life-accountant.html page */
+.jumbotron_home{
+  background-image: url("../img/robot_figure.png");
+  background-size: cover;
+  color: black;
+}
+
+/* Additional stuff for life-accountant.html page */
+.jumbotron_thought{
+  background-image: url("../img/thought.jpg");
+  background-size: cover;
+  color: white;
+}
+
+
+.jumbotron_resume{
+  background-image: url("../img/resume-cover.png");
+  background-size: cover;
+  color: black;
+}
+
+
+
+.zoomin{
+    transition: -webkit-transform 0.10s ease;
+}
+.zoomin:active {
+    -webkit-transform: scale(3);
+}
+
+.jumbotron-bnt-col{
+    color: #d9f0d6;
+    background-color: rgba(36, 44, 32, 0.68);
+    border-color: rgba(255, 255, 255, 0);
+}
+
+.index-info-container {
+    color: rgba(3, 3, 3, 0.76);
+}
