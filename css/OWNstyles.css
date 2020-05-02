@@ -11,7 +11,7 @@ html {
 body {
   background: none;
   color: rgb(116, 69, 36);
-  font-family: 'Vollkorn', serif;
+  font-family: 'Noto Sans TC', sans-serif;
   font-weight: 250;
 }
 
@@ -46,9 +46,10 @@ body {
 
 /* Additional stuff for life-accountant.html page */
 .jumbotron_home{
-  background-image: url("../img/robot_figure.png");
-  background-size: cover;
+  background-image: url("../img/logo.png");
+  background-size:25%;
   color: black;
+  background-repeat:no-repeat ;
 }
 
 /* Additional stuff for life-accountant.html page */
