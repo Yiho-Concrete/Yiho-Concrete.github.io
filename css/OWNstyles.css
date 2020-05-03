@@ -1,9 +1,3 @@
-.first-container{background-color: rgba(251, 243, 235, 0.2);
-         color: #5a7791}
-
-.profile-navbar{background-color: rgba(255, 255, 255, 0.6);
-         }
-
 html {
   background-color: #f5f5e8;
 }
@@ -14,6 +8,12 @@ body {
   font-family: 'Noto Sans TC', sans-serif;
   font-weight: 250;
 }
+
+
+.first-container{background-color: rgba(251, 243, 235, 0.2);
+         color: #5a7791}
+
+.profile-navbar{background-color: rgba(189, 30, 30,0)}
 
 .card-title {
   color: #071663;
@@ -45,27 +45,12 @@ body {
 }
 
 /* Additional stuff for life-accountant.html page */
-.jumbotron_home{
+.jumbotron_index{
   background-image: url("../img/寶山廠房1.jpg");
   background-size:cover;
   color: black;
   background-repeat:no-repeat ;
 }
-
-/* Additional stuff for life-accountant.html page */
-.jumbotron_thought{
-  background-image: url("../img/thought.jpg");
-  background-size: cover;
-  color: white;
-}
-
-
-.jumbotron_resume{
-  background-image: url("../img/resume-cover.png");
-  background-size: cover;
-  color: black;
-}
-
 
 
 .zoomin{
@@ -83,4 +68,12 @@ body {
 
 .index-info-container {
     color: rgba(3, 3, 3, 0.76);
+}
+
+.xx-small-font-size {
+    font-size:x-small;
+}
+
+.font-color-red{
+    color: rgba(255, 0, 0, 1);
 }
