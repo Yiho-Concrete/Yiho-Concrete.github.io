@@ -47,7 +47,7 @@ body {
 /* Additional stuff for life-accountant.html page */
 .jumbotron_home{
   background-image: url("../img/寶山廠房1.jpg");
-  background-size:100%;
+  background-size:cover;
   color: black;
   background-repeat:no-repeat ;
 }
