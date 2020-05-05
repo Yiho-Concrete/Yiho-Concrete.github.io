@@ -1,5 +1,5 @@
 html {
-  background-color: #f5f5e8;
+  background-color: rgb(255,255,255);
 }
 
 body {
@@ -21,7 +21,7 @@ body {
 
 .card-title {
   color: #071663;
-  font-family: 'Vollkorn', serif;
+  font-family: 'Noto Sans TC', sans-serif;
   font-weight: 500;
 }
 
