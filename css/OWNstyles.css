@@ -5,11 +5,14 @@ html {
 body {
   background: none;
   color: rgb(116, 69, 36);
-  font-family: 'Noto Sans TC', sans-serif;
+  font-family: 'NotoSerif TC', sans-serif;
   font-weight: 250;
 }
 
+.body_title{
+  font-family: 'Noto Sans TC', sans-serif;
 
+}
 
 .first-container{background-color: rgba(251, 243, 235, 0.2);
          color: #5a7791}
@@ -26,10 +29,11 @@ body {
 }
 
 .card-text{
-  font-family: 'Noto Sans TC', sans-serif;
+  font-family:  'NotoSerif TC', sans-serif;
   font-weight: 400;
   font-size:small;
-
+  color: rgb(0,0,0);
+  margin-left: 10
 }
 
 
@@ -72,3 +76,10 @@ body {
 .font-color-red{
     color: rgba(255, 0, 0, 1);
 }
+
+
+.iframe-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 10; }
